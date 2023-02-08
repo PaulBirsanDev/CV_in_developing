@@ -1,0 +1,12 @@
+body {
+    background-color:lightcyan;
+}
+hr {
+    width: 10%;
+    border-style: dotted none none;
+    color: aquamarine;
+    border-width: 7px;
+}
+table {
+    background-color: aliceblue;
+}
